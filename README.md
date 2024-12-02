@@ -1,3 +1,2 @@
 # dekh
-[wikipedia](https://wikipedia.org/)
-[google](https://google.com/)
+[wikipedia](https://wikipedia.org/) ya [google](https://google.com/)
